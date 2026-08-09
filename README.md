@@ -50,8 +50,6 @@
 
 https://dhruvpandit46.github.io/Test_2_Home/
 
-*(Requires the configured cloud endpoint to be online for live toggling to work — see Configuration below.)*
-
 ---
 
 # ⚙ Technologies Used
